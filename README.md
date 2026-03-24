@@ -1,6 +1,6 @@
 ﻿---
 title: AI Polygon Annotation Tool
-emoji: "\U0001F537"
+emoji: 🔷
 colorFrom: blue
 colorTo: purple
 sdk: docker
