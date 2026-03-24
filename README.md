@@ -1,4 +1,16 @@
-# 🧠 AI Polygon Annotation Tool
+---
+title: AI Polygon Annotation Tool
+emoji: 🏷️
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.44.0"
+python_version: "3.10"
+app_file: main.py
+pinned: false
+---
+
+# PolyAnnot v2.0 — AI Polygon Annotation Tool
 
 An AI-powered automatic image annotation system that generates **polygon** and **bounding box** annotations using a hybrid deep learning pipeline — no manual labeling needed.
 
